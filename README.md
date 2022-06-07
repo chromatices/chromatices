@@ -2,7 +2,7 @@
 ![chromatices's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromatices&show_icons=true&theme=cobalt)
 ![trophy](https://github-profile-trophy.vercel.app/?username=chromatices)
 
-<a href="[[연결할 링크]](https://chromatices.notion.site/118d9d8ed3164f64aff231d1f57d3723)" target="_blank"><img src="https://img.shields.io/badge/portfolio-#000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="[[연결할 링크]](https://chromatices.notion.site/118d9d8ed3164f64aff231d1f57d3723)" target="_blank"><img src="https://img.shields.io/badge/portfolio-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 **chromatices/chromatices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
