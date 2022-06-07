@@ -1,5 +1,5 @@
 
-![chromatices's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromatices&show_icons=true&theme=synthwave)
+![chromatices's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromatices&show_icons=true&theme=cobalt)
 ![trophy](https://github-profile-trophy.vercel.app/?username=chromatices)
 
 <!--
