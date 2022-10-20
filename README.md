@@ -1,4 +1,7 @@
 
+<img src="https://img.shields.io/badge/kubernetess-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+
 ![chromatices's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromatices&show_icons=true&theme=cobalt)
 ![trophy](https://github-profile-trophy.vercel.app/?username=chromatices)
 
